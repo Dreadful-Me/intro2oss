@@ -1,4 +1,4 @@
-# 如何参与开源
+# 如何参与开源（how）
 
 !!! note "本节概览"
 
@@ -314,7 +314,7 @@ F --> H[提交首份数据清洗报告/知识词条编辑]
 
 ### 工具实操对比
 
-狭义：比如使用 Git 提交代码 PR（ GitHub 流程）：
+狭义：比如使用 Git 提交代码 PR（GitHub 流程）：
 
 ```mermaid
 graph TD
@@ -337,7 +337,7 @@ graph TD
 
 ---
 
-广义：比如使用 JOSM 编辑地图数据（ OpenStreetMap 贡献流程）：
+广义：比如使用 JOSM 编辑地图数据（OpenStreetMap 贡献流程）：
 
 ```mermaid
 graph TD
